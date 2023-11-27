@@ -1,7 +1,7 @@
 require 'rack'
 require 'erb'
 require_relative 'database'
-require_relative 'graphql/schema'
+require_relative 'initializers/graphql'
 
 class App
   def call(env)

@@ -72,4 +72,3 @@ SQL
 
 # # Assuming The Legend of Zelda: BotW (id 2) can be played on Yuzu (id 2)
 # DB.execute("INSERT INTO games_emulators (game_id, emulator_id) VALUES (2, 2)");
-
